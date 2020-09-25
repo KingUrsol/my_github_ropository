@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic{
+    margin-left: 2%;
+    height: 1000px;
+    margin-right: 2%;
+    margin-top: 2%;
+    border-radius: 20px 20px 0 0;
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.header1{
+    color: white;
+    padding-top: 700px;
+    padding-left: 80px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 120px;
+}
+.header2{
+    padding-top: 0;
+    margin-top: 0;
+    color: white;
+    padding-left: 80px;
+    font-size: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.grey{
+    margin-top: 0;
+    padding-top: 0;
+    background-color: grey;
+    border-radius: 0 0 20px 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 45px;
+}
+.grey li {
+    list-style-type: none;
+    line-height: 65px;
+    color: lightgray;
+}
+.grey ul{
+    margin-top: 0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+span{
+    color: white;
+}
+.text{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: white;
+    font-size: 30px;
+}
+.h1{
+    color: white;
+}
+.list h1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-left: 2%;
+    margin-right: 2%;
+    color:white;
+}
+.list li{
+    color:white;
+    font-size: 30px;
+}
+.list a{
+    color:white;
+}
+.oscar{
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: gray;
+    text-align: center;
+    border-radius: 20px;
+    color:white;
+    font-size: 30px;
+}
+.oscar h1{
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+img{
+    padding-top: 2%;
+    text-align: center;
+}
+.oscar p{
+    padding-bottom: 4%;
+}
